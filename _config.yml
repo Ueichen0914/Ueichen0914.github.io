@@ -1,0 +1,23 @@
+# Site settings
+title: UEI's Resume
+description: My Resume
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Ueichen
+user_description: Hello, everyone. I'm a dentistry student in National Yang Ming Chiao Tung University(NYCU) from Taiwan.
+user_title: Python enthusiast🐍/DJ🎹/Dentistry student 🦷
+email: ueichen0914.de09@nycu.edu.tw
+github_username:  Ueichen0914
+linkedin_username: ueichen0914
+instagram_username: ultra_waiting
+facebook_username: ueichen0914
+twitter_username: ueithedj
+soundcloud_username: ueichen
+mixcloud_username: UeiChen
+# medium_username: lorem_ipsum
+# medium_url: lorem_ipsum.medium.com
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src' , 'node_modules']
